@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SvenMarcus/SvenMarcus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Sven's Github stats](https://github-readme-stats.vercel.app/api?username=SvenMarcus&show_icons=true&theme=react)
+
+
+### Lua Developer for Empire at War Expanded
+![Imperial Civil War](https://media.discordapp.net/attachments/312295205959368705/666303865091653644/eawx_tr_steel2.png)
+#### [Get it on the Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1125571106)
+
+#### [Check out the framework that powers EaWX's mechanics](https://github.com/SvenMarcus/eawx-galactic-framework)

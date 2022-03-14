@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![Imperial Civil War](https://media.discordapp.net/attachments/312295205959368705/666303865091653644/eawx_tr_steel2.png)
 #### [Get it on the Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1125571106)
 
-#### [Check out the framework that powers EaWX's mechanics](https://github.com/SvenMarcus/eawx-galactic-framework)
+#### [Check out the framework that powers EaWX's mechanics](https://github.com/SvenMarcus/deepcore-standalone)
